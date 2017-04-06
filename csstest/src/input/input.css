@@ -1,0 +1,37 @@
+@import '../styles/var.css';
+
+.input {
+  background-color: whitesmoke;
+  border: 1px solid whitesmoke;
+  color: dimgray;
+  font-size: var(--skilled-font-3);
+  height: var(--skilled-layout-4);
+  padding: var(--skilled-layout-3);
+}
+.input::-webkit-input-placeholder {
+  color: dimgray;
+}
+
+.label {
+  color: dimgray;
+  padding-right: var(--skilled-layout-2);
+  font-size: var(--skilled-font-2);
+  margin-bottom: var(--skilled-layout-2);
+}
+
+.error {
+  color: red;
+  border: 1px solid red;
+}
+.error::-webkit-input-placeholder {
+  color: red;
+}
+
+.inline {
+  display: flex;
+  align-items: baseline;
+}
+
+.common {
+  margin-bottom: var(--skilled-layout-3);
+}

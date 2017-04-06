@@ -1,0 +1,27 @@
+:root {
+  --skilled-font-0: 0;
+  --skilled-font-1: 0.75rem;
+  --skilled-font-2: 1rem;
+  --skilled-font-3: 1.25rem;
+  --skilled-font-4: 1.5rem;
+  --skilled-font-5: 2rem;
+  --skilled-font-6: 3rem;
+  --skilled-font-7: 4rem;
+
+  --skilled-layout-0: 0;
+  --skilled-layout-1: 0.5rem;
+  --skilled-layout-2: 1rem;
+  --skilled-layout-3: 2rem;
+  --skilled-layout-4: 4rem;
+  --skilled-layout-5: 6rem;
+  --skilled-layout-6: 8rem;
+  --skilled-layout-7: 12rem;
+
+  --skilled-page-layout-0: 0;
+  --skilled-page-layout-1: 16rem;
+  --skilled-page-layout-2: 24rem;
+  --skilled-page-layout-3: 32rem;
+  --skilled-page-layout-4: 48rem;
+  --skilled-page-layout-5: 56rem;
+  --skilled-page-layout-6: 64rem;
+}
